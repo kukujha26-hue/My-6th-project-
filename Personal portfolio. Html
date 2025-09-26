@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Personal Portfolio</title>
+</head>
+<body bgcolor="lightblue">
+    <h1 style="text-align:center; color:navy;">Seema Jha's Portfolio</h1>
+
+    <h2>About Me</h2>
+    <p>Hello! I am Seema Jha, a budding web developer learning HTML, CSS, and JavaScript. I love creating projects and learning new things.</p>
+
+    <h2>My Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>Basic Python</li>
+    </ul>
+
+    <h2>My Projects</h2>
+    <ol>
+        <li>About Me Page</li>
+        <li>Portfolio</li>
+        <li>Student Registration Form</li>
+        <li>My Favourite Things</li>
+        <li>Marksheet Table</li>
+        <li>To-Do List</li>
+        <li>My Personal Portfolio</li>
+    </ol>
+
+    <h2>Contact Me</h2>
+    <p>Email: <a href="mailto:seemajha@example.com">seemajha@example.com</a></p>
+    <p>Phone: <a href="tel:+911234567890">+91 12345 67890</a></p>
+</body>
+</html>
